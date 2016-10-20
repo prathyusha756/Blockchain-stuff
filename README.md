@@ -13,8 +13,9 @@ Curated list of Blockchain and Crytocurrency Resources in general
 ##Ethereum
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 
--[Videos](#videos)
-
+##Videos
+[Videos](#videos)
+[Youtube channels](#youtube-channels)
 
 ###Blockchain Books
 
@@ -106,3 +107,27 @@ from--Cryptocurrencies - Oscar Flynt
 * [Morgan Spurlock Inside Bitcoin (40 min)]( http://m.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
 * [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)] (https://www.youtube.com/watch?v=cOubCHLXT6A)
 * [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)] (https://www.youtube.com/watch?v=7-vYEsfsa30)
+
+
+###Youtube Channels
+* [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
+* [Andy Ofiesh ](https://www.youtube.com/user/JellyBaby68/videos)
+* [Bitcoin Embassy ](https://www.youtube.com/user/JellyBaby68/videos)
+* [Bitcoin Foundation ](https://www.youtube.com/user/BitcoinFoundation/videos)
+* [Bitcoin Wednesday ](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
+* [Blockchain University ](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
+* [Bruce Fenton First Mover, ](https://www.youtube.com/user/BruceFenton/videos)
+* [Coin Brief ](https://www.youtube.com/user/Coinbrief/videos)
+* [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
+* [decentral.tv ](https://www.youtube.com/user/decentralTV/videos)
+* [Draper University ](https://www.youtube.com/user/TimothyDraper/videos)
+* [EverydayCrpto](https://www.youtube.com/user/Cryptoeveryday/videos)
+* [Let's Talk Bitcoin ](https://www.youtube.com/user/LetsTalkBitcoinChan)
+* [MIT Bitcoin Club ](https://www.youtube.com/user/MITBitcoinClub/videos)
+* [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
+* [SF Bitcoin Meetup Industry](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos)
+* [Texas Bitcoin Conference](Industy Info, Technical)
+* [UNIVERSITY OF NICOSIA MSc in Digital ](https://www.youtube.com/user/MScDigitalCurrency/videos)
+* [WBN ](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
+* [World Crypto Network](Industry Info, Fun, Entertainment)
+* [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
