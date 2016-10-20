@@ -55,7 +55,7 @@ KPMG](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-conse
 
 * The Bitcoin Bible - Benjamin Guttmann
 
-* Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin 
+* Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin - Eric Geissinger
 
 * The Book of Satoshi - Paul Champagne
 
