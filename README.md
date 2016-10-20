@@ -2,12 +2,11 @@
 Curated list of Blockchain and Crytocurrency books in general
 
 # Contents
------------------
 
 
 - [Blockchain Books](#blockchain-books)
 - [Blockchain White Papers](#blockchain-white-papers)
-- [Bitcoin Books](#bitcoin-books)
+- [Bitcoin Books](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 
 
