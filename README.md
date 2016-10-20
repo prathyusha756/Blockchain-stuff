@@ -1,4 +1,5 @@
-# Blockchain-books
+# Blockchain-stuff
+
 Curated list of Blockchain and Crytocurrency Resources in general
 
 # Contents
