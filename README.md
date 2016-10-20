@@ -14,12 +14,12 @@ Curated list of Blockchain and Crytocurrency Resources in general
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 
 ##Videos
-[Videos](#videos)
-[Youtube channels](#youtube-channels)
+* [Videos](#videos)
+* [Youtube channels](#youtube-channels)
 
 ###Blockchain Books
 
-* The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology -  William Mougayar
+* [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology ](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)-  William Mougayar
 * The FinTech Book: The Financial Technology Handbook for Investors,Entrepreneurs and Visionaries - Susanne Chishti and Janos Barberis
 * Blockchain Revolution: How the Technology behind Bitcoin Is Changing MoneyBusiness and the World -  Don and AlexTapscott
 * ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value -Chris Skinner
@@ -29,7 +29,7 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * How to Program a Block Chain Explorer with Python and Bitcoin
 * Blockchain: The Comprehensive Guide to Mastering the Hidden Economy - Timothy Short
 * Blockchain The Ultimate Guide to Understanding the Hidden Economy - Oscar Flynt
-* Blockchain Revolution: The Ultimate Guide to Mastering Bitcoin and How to Use  Blockchain for Your Benefit - Phil Stein
+* [Blockchain Revolution: The Ultimate Guide to Mastering Bitcoin and How to Use  Blockchain for Your Benefit](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=JMGHCB5WB1SFP0HYMK6E&pd_rd_w=uHeeo&pd_rd_wg=cburT&psc=1&refRID=JMGHCB5WB1SFP0HYMK6E) - Phil Stein
 * Blockchain Fast and Simple - What It Is, How It Works, Why It Matters:
   Understand the basics, join the revolution - Pierro Martini
 * The Science of the Blockchain - Roger Wattenhofer
@@ -49,8 +49,7 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [Consensus – Immutable agreement for the internet of value - KPMG](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf)
 
 ###Bitcoin 
-* Mastering Bitcoin: Unlocking Digital Cryptocurrencies - Andreas M.
-  Antonopoulos
+* [Mastering Bitcoin: Unlocking Digital Cryptocurrencies ](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_1?ie=UTF8&qid=1476978890&sr=8-1&keywords=Mastering+Bitcoin%3A+Unlocking+Digital+Cryptocurrencies) Andreas M.  Antonopoulos
 * Digital Gold: The Untold Story of Bitcoin -  Nathaniel Popper
 * Cryptocurrency: How Bitcoin and Digital Money are challenging the Global Economic Order - Paul Vigna and Michael J. Casey
 * Bitcoin The Future of money - Dominic Frisby
@@ -60,7 +59,7 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * The Book of Satoshi - Paul Champagne
 * Bitcoin for the Befuddled - Conrad Barski and Chris Wilmer
 * Bitcoin and The Future of Money - Jose Pagliery 
-* The Internet of Money - Andreas M Antonopoulos
+* [The Internet of Money - Andreas M Antonopoulos](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=1537000454&pd_rd_r=XPR2XE7MNFCYAB70VZDM&pd_rd_w=xn5TU&pd_rd_wg=4Sqi0&psc=1&refRID=XPR2XE7MNFCYAB70VZDM)
 * The Bitcoin Tutorial: Develop an intuitive understanding of the currency and blockchain technology - Bruce Kleinman
 * Bitcoin: Mastering Bitcoin & Cyptocurrency for Beginners - Tim Harris
 * Bitcoin For Dummies - Prypto
