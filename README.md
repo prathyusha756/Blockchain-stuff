@@ -21,7 +21,7 @@ Curated list of Blockchain and Crytocurrency Resources in general
 
 * [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology ](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)-  William Mougayar
 * [The FinTech Book: The Financial Technology Handbook for Investors,Entrepreneurs and Visionaries ](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)- Susanne Chishti and Janos Barberis
-* Blockchain Revolution: How the Technology behind Bitcoin Is Changing MoneyBusiness and the World -  Don and AlexTapscott
+* [Blockchain Revolution: How the Technology behind Bitcoin Is Changing MoneyBusiness and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Don and AlexTapscott
 * [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value ](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ)-Chris Skinner
 * The Fourth Industrial Revolution - Prof Klaus Schwab
 * [Blockchain: Blueprint for a New Economy ](https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1491920491&pd_rd_r=3KQXC5RXYM1R64CDQ0DW&pd_rd_w=YGgzx&pd_rd_wg=udR6C&psc=1&refRID=3KQXC5RXYM1R64CDQ0DW)- Melanie Swan
@@ -47,10 +47,11 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [Banking in a world of programmable assets - Accenture](https://www.accenture.com/t20160509T223022__w__/us-en/_acnmedia/PDF-16/Accenture-Strategy-Banking-World-of-Programmable-Assets.pdf)
 * [Blockchain: practical implications of a revolutionary technology for financial markets and beyond - DLA Piper](https://www.dlapiper.com/en/uk/insights/events/2016/04/blockchain-practical-implications/11-apr-2016/) 
 * [A brave new world? What impact will distributed ledger technology have on the financial industry? -  The European Central Bank](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf)
-* [Distributed Ledger Technology: beyond block chain - UK Government Chief Scientific Adviser ] (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
+* [Distributed Ledger Technology: beyond block chain - UK Government Chief Scientific Adviser ](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
 * [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle by The Swift Institute ](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf)
 * [BlockChain Technology Beyond Bitcoin - University of California,Berkeley](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
 * [Consensus – Immutable agreement for the internet of value - KPMG](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf)
+
 
 ###Bitcoin 
 * [Mastering Bitcoin: Unlocking Digital Cryptocurrencies ](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_1?ie=UTF8&qid=1476978890&sr=8-1&keywords=Mastering+Bitcoin%3A+Unlocking+Digital+Cryptocurrencies) Andreas M.  Antonopoulos
@@ -58,14 +59,14 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [The Age of Cryptocurrency: How Bitcoin and Digital Money are challenging the Global Economic Order ](https://www.amazon.com/Age-Cryptocurrency-Bitcoin-Challenging-Economic/dp/1250065631/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1250065631&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM)- Paul Vigna and Michael J. Casey
 * [Bitcoin The Future of money] - Dominic Frisby
 * [Wildcat Currency ]- Edward Castronova
-* [The Bitcoin Bible] - Benjamin Guttmann
+* [The Bitcoin Bible](https://www.amazon.com/Bitcoin-Bible-Gold-Benjamin-Guttmann/dp/3732296962/ref=pd_sim_14_18?_encoding=UTF8&pd_rd_i=3732296962&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Benjamin Guttmann
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin] - Eric Geissinger
 * [The Book of Satoshi](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0996061312&pd_rd_r=9QB4ZB20S6CY4NGE029X&pd_rd_w=2TjP2&pd_rd_wg=VjLqC&psc=1&refRID=9QB4ZB20S6CY4NGE029X) - Paul Champagne
-* [Bitcoin for the Befuddled] - Conrad Barski and Chris Wilmer
+* [Bitcoin for the Befuddled](https://www.amazon.com/Bitcoin-Befuddled-Conrad-Barski/dp/1593275730/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=1593275730&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Conrad Barski and Chris Wilmer
 * [Bitcoin and The Future of Money](https://www.amazon.com/Bitcoin-Future-Money-Jose-Pagliery/dp/1629370363/ref=pd_sim_14_14?_encoding=UTF8&pd_rd_i=1629370363&pd_rd_r=NHZ4SY5ACXYYFA2FN5PK&pd_rd_w=WI1XD&pd_rd_wg=LtNFM&psc=1&refRID=NHZ4SY5ACXYYFA2FN5PK) - Jose Pagliery 
 * [The Internet of Money - Andreas M Antonopoulos](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=1537000454&pd_rd_r=XPR2XE7MNFCYAB70VZDM&pd_rd_w=xn5TU&pd_rd_wg=4Sqi0&psc=1&refRID=XPR2XE7MNFCYAB70VZDM)
 * [The Bitcoin Tutorial: Develop an intuitive understanding of the currency and blockchain technology] - Bruce Kleinman
-* [Bitcoin: Mastering Bitcoin & Cyptocurrency for Beginners] - Tim Harris
+* [Bitcoin: Mastering Bitcoin & Cyptocurrency for Beginners](https://www.amazon.com/Bitcoin-Mastering-Cyptocurrency-Reinventing-Currencies/dp/153342733X/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=153342733X&pd_rd_r=TJJ3Y2F85RACYQSF23GZ&pd_rd_w=kwfLQ&pd_rd_wg=koGbV&psc=1&refRID=TJJ3Y2F85RACYQSF23GZ) - Tim Harris
 * [Bitcoin For Dummies](https://www.amazon.com/Bitcoin-Dummies-Prypto/dp/1119076137/ref=pd_sim_14_30?_encoding=UTF8&pd_rd_i=1119076137&pd_rd_r=26RQGPJBS5V65WXKFS9Z&pd_rd_w=DJMVN&pd_rd_wg=E1guu&psc=1&refRID=26RQGPJBS5V65WXKFS9Z)- Prypto
 * [Bitcoin Step by Step for Beginners: How to Invest and Profit from Bitcoin Today!] - Leo Kallstrom
 * [Bitcoin : A Complete Beginner's Guide - Master The Game] - Luke Sutton
@@ -79,8 +80,10 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [The Bitcoin Tutor: Unlocking the Secrets of Bitcoin](https://www.amazon.com/Bitcoin-Tutor-Unlocking-Secrets/dp/0979864917/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=0979864917&pd_rd_r=QZN41AYGXJSCS7Q32WA7&pd_rd_w=2i7o1&pd_rd_wg=nbCJJ&psc=1&refRID=QZN41AYGXJSCS7Q32WA7) - Marc A. Carignan
 * [Bitcoin Basics](https://www.amazon.com/Bitcoin-Basics-Creating-Investing-Bitcoins/dp/1508478945/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1508478945&pd_rd_r=YMYPCM376H2JNJ9NVB6D&pd_rd_w=0gtr5&pd_rd_wg=iqdC9&psc=1&refRID=YMYPCM376H2JNJ9NVB6D) - Benjamin Tideas
 * [Bitcoin Decoded: Bitcoin Beginner's Guide to Mining and the Strategies to Make Money with Cryptocurrencies ](https://www.amazon.com/Bitcoin-Decoded-Beginners-Strategies-Cryptocurrencies/dp/061595524X/ref=pd_sim_14_12?_encoding=UTF8&pd_rd_i=061595524X&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Brett Combs,Tom Mitsoff
+* [Everything you need to know about buying, selling and investing in Bitcoin](https://www.amazon.com/Everything-selling-investing-Bitcoin-Technology/dp/1493699474/ref=pd_sim_14_17?_encoding=UTF8&pd_rd_i=1493699474&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - A. H Smithers
 * [The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World](https://www.amazon.com/Bitcoin-Big-Bang-Alternative-Currencies/dp/1118963660/ref=pd_sim_14_13?_encoding=UTF8&pd_rd_i=1118963660&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Brian Kelly 
 * [Anonymous Cryptocurrencies: The rise of bitcoin alternatives that offer true anonymity](https://www.amazon.com/Cryptocurrencies-bitcoin-alternatives-offer-anonymity/dp/1500682586/ref=pd_sim_14_24?_encoding=UTF8&pd_rd_i=1500682586&pd_rd_r=PMB5GABNHVFM2VHE3WBH&pd_rd_w=6yGsW&pd_rd_wg=yVxm8&psc=1&refRID=PMB5GABNHVFM2VHE3WBH) - Will Martin 
+* [Understanding Bitcoin: Cryptography, Engineering and Economics](https://www.amazon.com/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168/ref=pd_sim_14_16?_encoding=UTF8&pd_rd_i=1119019168&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Pedro Franco
 
 ###Ethereum and Smart Contracts
 
