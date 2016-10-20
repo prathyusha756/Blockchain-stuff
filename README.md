@@ -6,17 +6,13 @@ Curated list of Blockchain and Crytocurrency Resources in general
 ##Blockchain
 - [Blockchain Books](#blockchain-books)
 - [Blockchain White Papers](#blockchain-white-papers)
-
 ##Bitcoin
 - [Bitcoin Books](#bitcoin)
-
 ##Ethereum
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
-
 ##Videos
 * [Videos](#videos)
 * [Youtube channels](#youtube-channels)
-
 ###Blockchain Books
 
 * [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology ](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)-  William Mougayar
