@@ -5,10 +5,10 @@ Curated list of Blockchain and Crytocurrency books in general
 -----------------
 
 
-- [Blockchain Books](http://github.com/mcfrankline/blockchain-books#blockchain-books)
-- [Blockchain White Papers](https://github.com/mcfrankline/blockchain-books#blockchain-white-papers)
-- [Bitcoin Books](http://github.com/mcfrankline/blockchain-books#bitcoin-books)
-- [Ethereum and Smart Contracts](http://github.com/mcfrankline/ethereum-and-smart-contracts)
+- [Blockchain Books](#blockchain-books)
+- [Blockchain White Papers](#blockchain-white-papers)
+- [Bitcoin Books](#bitcoin-books)
+- [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 
 
 
