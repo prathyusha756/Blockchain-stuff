@@ -34,12 +34,13 @@ Curated list of Blockchain and Crytocurrency Resources in general
   Understand the basics, join the revolution - Pierro Martini
 * [The Science of the Blockchain](https://www.amazon.com/Science-Blockchain-Inverted-Forest-Publishing/dp/1522751831/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1522751831&pd_rd_r=FF7D9XVT7EPCACXH29Z8&pd_rd_w=JXBSj&pd_rd_wg=pcc0Z&psc=1&refRID=FF7D9XVT7EPCACXH29Z8) - Roger Wattenhofer
 * [Decentralized Applications: Harnessing Bitcoin's Blockchain Technology](https://www.amazon.com/Decentralized-Applications-Harnessing-Blockchain-Technology/dp/1491924543/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1491924543&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM) - Siraj Raval
-* Blockchain: The Simple Guide To Everything You Need To Know - Jacob William
+* [Blockchain: The Simple Guide To Everything You Need To Know](https://www.amazon.com/Blockchain-Simple-Guide-Everything-Need/dp/1533161577/ref=pd_sim_14_23?_encoding=UTF8&pd_rd_i=1533161577&pd_rd_r=26RQGPJBS5V65WXKFS9Z&pd_rd_w=DJMVN&pd_rd_wg=E1guu&psc=1&refRID=26RQGPJBS5V65WXKFS9Z) - Jacob William
 * [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
 * [Blockchain: The Future of Internet Innovation - Ideas, Applications and Uses for Blockchain Technology]() - Jerry Kershen 
 * [Financial Technology: This Book Bundle Includes FinTech and Blockchain ](https://www.amazon.com/Financial-Technology-Bundle-FinTech-Blockchain/dp/1533477299/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1533477299&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830)-  Jacob William 
 * [Blockchain: Quick Start Guide to Understanding Blockchain, the Biggest Revolution in Financial Technology and Beyond Since the Internet ](https://www.amazon.com/Blockchain-Understanding-Revolution-Financial-Technology/dp/153469093X/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=153469093X&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830) - Seth Ramsey
-[Blockchain: The Essential Guide to Understanding the Blockchain Revolution](https://www.amazon.com/Blockchain-Essential-Guide-Understanding-Revolution/dp/1537317504/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=1537317504&pd_rd_r=N3211HRZ6T4ETTER3MY3&pd_rd_w=I44Hf&pd_rd_wg=evC6k&psc=1&refRID=N3211HRZ6T4ETTER3MY3) - Jeff Reed
+* [Blockchain: The Essential Guide to Understanding the Blockchain Revolution](https://www.amazon.com/Blockchain-Essential-Guide-Understanding-Revolution/dp/1537317504/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=1537317504&pd_rd_r=N3211HRZ6T4ETTER3MY3&pd_rd_w=I44Hf&pd_rd_wg=evC6k&psc=1&refRID=N3211HRZ6T4ETTER3MY3) - Jeff Reed
+* [Blockchain: Easiest Ultimate Guide To Understand Blockchain](https://www.amazon.com/Blockchain-Understand-Programming-Contracts-Revolution/dp/1537533371/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1537533371&pd_rd_r=904DCPSY2QZX2VM23XQD&pd_rd_w=3oCFL&pd_rd_wg=jJFBs&psc=1&refRID=904DCPSY2QZX2VM23XQD) - Jared Norton 
 
 
 ###Blockchain White papers
@@ -61,20 +62,24 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin] - Eric Geissinger
 * [The Book of Satoshi](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0996061312&pd_rd_r=9QB4ZB20S6CY4NGE029X&pd_rd_w=2TjP2&pd_rd_wg=VjLqC&psc=1&refRID=9QB4ZB20S6CY4NGE029X) - Paul Champagne
 * [Bitcoin for the Befuddled] - Conrad Barski and Chris Wilmer
-* [Bitcoin and The Future of Money] - Jose Pagliery 
+* [Bitcoin and The Future of Money](https://www.amazon.com/Bitcoin-Future-Money-Jose-Pagliery/dp/1629370363/ref=pd_sim_14_14?_encoding=UTF8&pd_rd_i=1629370363&pd_rd_r=NHZ4SY5ACXYYFA2FN5PK&pd_rd_w=WI1XD&pd_rd_wg=LtNFM&psc=1&refRID=NHZ4SY5ACXYYFA2FN5PK) - Jose Pagliery 
 * [The Internet of Money - Andreas M Antonopoulos](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=1537000454&pd_rd_r=XPR2XE7MNFCYAB70VZDM&pd_rd_w=xn5TU&pd_rd_wg=4Sqi0&psc=1&refRID=XPR2XE7MNFCYAB70VZDM)
 * [The Bitcoin Tutorial: Develop an intuitive understanding of the currency and blockchain technology] - Bruce Kleinman
 * [Bitcoin: Mastering Bitcoin & Cyptocurrency for Beginners] - Tim Harris
-* [Bitcoin For Dummies] - Prypto
+* [Bitcoin For Dummies](https://www.amazon.com/Bitcoin-Dummies-Prypto/dp/1119076137/ref=pd_sim_14_30?_encoding=UTF8&pd_rd_i=1119076137&pd_rd_r=26RQGPJBS5V65WXKFS9Z&pd_rd_w=DJMVN&pd_rd_wg=E1guu&psc=1&refRID=26RQGPJBS5V65WXKFS9Z)- Prypto
 * [Bitcoin Step by Step for Beginners: How to Invest and Profit from Bitcoin Today!] - Leo Kallstrom
 * [Bitcoin : A Complete Beginner's Guide - Master The Game] - Luke Sutton
-* [The Black Book of Bitcoin: A Step-by-Step Bitcoin Guide on Everything You Need to Know About this New Currency] - Mark Janniro
+* [The Black Book of Bitcoin: A Step-by-Step Bitcoin Guide on Everything You Need to Know About this New Currency](https://www.amazon.com/Black-Book-Bitcoin-Step-Step/dp/1519284527/ref=pd_sim_14_22?_encoding=UTF8&pd_rd_i=1519284527&pd_rd_r=PMB5GABNHVFM2VHE3WBH&pd_rd_w=6yGsW&pd_rd_wg=yVxm8&psc=1&refRID=PMB5GABNHVFM2VHE3WBH) - Mark Janniro
 * [Bitcoin Internals: A Technical Guide to Bitcoin ]- Chris Clark
 * [Bitcoin in English ]- Peter H Le
 * [The Anatomy of a Money-Like Informational Commodity: A study of Bitcoin] - Tim Swanson 
 * [The Digital Money Game: Competing in the multi-trillion dollar payments industry] - Charmaine Oak
 * [Bit by Bit: How P2P Is Freeing the World - Jeffery Tucker]
 * [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0691171696&pd_rd_r=0CHWWTBSREYE58R7P0SX&pd_rd_w=gCU04&pd_rd_wg=gZavr&psc=1&refRID=0CHWWTBSREYE58R7P0SX) - Arvind Narayanan,Joseph Bonneau,Edward Felten, Andrew Miller,Steven Goldfeder 
+* [The Bitcoin Tutor: Unlocking the Secrets of Bitcoin](https://www.amazon.com/Bitcoin-Tutor-Unlocking-Secrets/dp/0979864917/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=0979864917&pd_rd_r=QZN41AYGXJSCS7Q32WA7&pd_rd_w=2i7o1&pd_rd_wg=nbCJJ&psc=1&refRID=QZN41AYGXJSCS7Q32WA7) - Marc A. Carignan
+* [Bitcoin Basics](https://www.amazon.com/Bitcoin-Basics-Creating-Investing-Bitcoins/dp/1508478945/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1508478945&pd_rd_r=YMYPCM376H2JNJ9NVB6D&pd_rd_w=0gtr5&pd_rd_wg=iqdC9&psc=1&refRID=YMYPCM376H2JNJ9NVB6D) - Benjamin Tideas
+* [Bitcoin Decoded: Bitcoin Beginner's Guide to Mining and the Strategies to Make Money with Cryptocurrencies ](https://www.amazon.com/Bitcoin-Decoded-Beginners-Strategies-Cryptocurrencies/dp/061595524X/ref=pd_sim_14_12?_encoding=UTF8&pd_rd_i=061595524X&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Brett Combs,Tom Mitsoff
+* [The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World](https://www.amazon.com/Bitcoin-Big-Bang-Alternative-Currencies/dp/1118963660/ref=pd_sim_14_13?_encoding=UTF8&pd_rd_i=1118963660&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Brian Kelly 
 
 ###Ethereum and Smart Contracts
 
