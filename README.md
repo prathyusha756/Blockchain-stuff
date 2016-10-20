@@ -4,10 +4,12 @@ Curated list of Blockchain and Crytocurrency Resources in general
 # Contents
 
 ##Blockchain
-- [Blockchain Books](#blockchain-books
+- [Blockchain Books](#blockchain-books)
 - [Blockchain White Papers](#blockchain-white-papers)
+
 ##Bitcoin
 - [Bitcoin Books](#bitcoin)
+
 ##Ethereum
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 
@@ -39,15 +41,11 @@ Curated list of Blockchain and Crytocurrency Resources in general
 ###Blockchain White papers
 * [Banking in a world of programmable assets - Accenture](https://www.accenture.com/t20160509T223022__w__/us-en/_acnmedia/PDF-16/Accenture-Strategy-Banking-World-of-Programmable-Assets.pdf)
 * [Blockchain: practical implications of a revolutionary technology for financial markets and beyond - DLA Piper](https://www.dlapiper.com/en/uk/insights/events/2016/04/blockchain-practical-implications/11-apr-2016/) 
-* [A brave new world? What impact will distributed ledger technology have on
-  the financial industry? -  The European Central Bank
-  ](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf)
+* [A brave new world? What impact will distributed ledger technology have on the financial industry? -  The European Central Bank](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf)
 * [Distributed Ledger Technology: beyond block chain - UK Government Chief Scientific Adviser ] (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
 * [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle by The Swift Institute ](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf)
-* [BlockChain Technology Beyond Bitcoin - University of California,
-Berkeley](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
-* [Consensus – Immutable agreement for the internet of value -
-KPMG](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf)
+* [BlockChain Technology Beyond Bitcoin - University of California,Berkeley](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
+* [Consensus – Immutable agreement for the internet of value - KPMG](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf)
 
 ###Bitcoin 
 * Mastering Bitcoin: Unlocking Digital Cryptocurrencies - Andreas M.
@@ -91,20 +89,20 @@ from--Cryptocurrencies - Oscar Flynt
 
 
 ###Videos
-* [Rise of bitcoin (2min)] (https://vimeo.com/110874487)
-* [Powerful Technology Transforming Society: (6min)] (http://www.youtube.com/watch?v=YIVAluSL9SUA)
-* [Stopping War: (1 min)] (https://www.youtube.com/watch?v=eyU3TgQqtV8)
-* [Quick Introduction to Bitcoin (5min)] (https://www.youtube.com/watch?v=slFuj5N4twc)
-* [Xapo, the history of money (5 min):] (http://youtu.be/IP0jCjyrew8)
-* [The Story of Genesis: (3min)] (http://youtu.be/gD4llSr-Ik8)
-* [Internet vs Bitcoin (3min):] (https://www.youtube.com/watch?v=s0luLPVHkO4)
-* [Ending the Federal Reserve's Monopoly (6 min):] http://vimeo.com/94697840
-* [Join The Bitcoin Revolution (4min):] https://www.youtube.com/watch?v=24ce5tV-pgg
-* [Convergex Group, Nick Colas (3min):] https://www.youtube.com/watch?v=CdVVECKKSXo
-* [Bitcoin threatens Kleptocracy (7 min):] http://youtu.be/jaHqtXvGxy4
-* [Defining bitcoin ownership, 2 min] (https://www.youtube.com/watch?v=TANjGSo16Uk)
-* TEDx, Distributing Power & Trust, Eric Spano (18min)] (https://www.youtube.com/watch?v=WI1pbHi1fww)
-* [Stefan Molyneux- Money, Power and Politics (30min):] (https://www.youtube.com/watch?v=_bmlVqs9qSY)
-* [Morgan Spurlock Inside Bitcoin (40 min)] ( http://m.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
+* [Rise of bitcoin (2min)](https://vimeo.com/110874487)
+* [Powerful Technology Transforming Society: (6min)](http://www.youtube.com/watch?v=YIVAluSL9SUA)
+* [Stopping War: (1 min)](https://www.youtube.com/watch?v=eyU3TgQqtV8)
+* [Quick Introduction to Bitcoin (5min)](https://www.youtube.com/watch?v=slFuj5N4twc)
+* [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
+* [The Story of Genesis: (3min)](http://youtu.be/gD4llSr-Ik8)
+* [Internet vs Bitcoin (3min):](https://www.youtube.com/watch?v=s0luLPVHkO4)
+* [Ending the Federal Reserve's Monopoly (6 min):](http://vimeo.com/94697840)
+* [Join The Bitcoin Revolution (4min):](https://www.youtube.com/watch?v=24ce5tV-pgg)
+* [Convergex Group, Nick Colas (3min):](https://www.youtube.com/watch?v=CdVVECKKSXo)
+* [Bitcoin threatens Kleptocracy (7 min):](http://youtu.be/jaHqtXvGxy4)
+* [Defining bitcoin ownership, 2 min](https://www.youtube.com/watch?v=TANjGSo16Uk)
+* [TEDx, Distributing Power & Trust, Eric Spano (18min)](https://www.youtube.com/watch?v=WI1pbHi1fww)
+* [Stefan Molyneux- Money, Power and Politics (30min):](https://www.youtube.com/watch?v=_bmlVqs9qSY)
+* [Morgan Spurlock Inside Bitcoin (40 min)]( http://m.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
 * [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)] (https://www.youtube.com/watch?v=cOubCHLXT6A)
 * [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)] (https://www.youtube.com/watch?v=7-vYEsfsa30)
