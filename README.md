@@ -23,15 +23,14 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [The FinTech Book: The Financial Technology Handbook for Investors,Entrepreneurs and Visionaries ](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)- Susanne Chishti and Janos Barberis
 * [Blockchain Revolution: How the Technology behind Bitcoin Is Changing MoneyBusiness and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Don and AlexTapscott
 * [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value ](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ)-Chris Skinner
-* The Fourth Industrial Revolution - Prof Klaus Schwab
+* [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1944835008/ref=sr_1_1?s=books&ie=UTF8&qid=1476984488&sr=1-1&keywords=The+Fourth+Industrial+Revolution) - Prof Klaus Schwab
 * [Blockchain: Blueprint for a New Economy ](https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1491920491&pd_rd_r=3KQXC5RXYM1R64CDQ0DW&pd_rd_w=YGgzx&pd_rd_wg=udR6C&psc=1&refRID=3KQXC5RXYM1R64CDQ0DW)- Melanie Swan
-* Bye Bye Banks?: How Retail Banks are Being Displaced, Diminished and Disintermediated by Tech Startups and What They Can Do to Survive - James Haycock
-* How to Program a Block Chain Explorer with Python and Bitcoin
+* [Bye Bye Banks?: How Retail Banks are Being Displaced, Diminished and Disintermediated by Tech Startups and What They Can Do to Survive](Bye Bye Banks?: How Retail Banks are Being Displaced, Diminished and Disintermediated by Tech Startups and What They Can Do to Survive) - James Haycock
+* [How to Program a Block Chain Explorer with Python and Bitcoin](https://www.amazon.com/Program-Block-Explorer-Python-Bitcoin-ebook/dp/B014B6890G/ref=sr_1_1?s=books&ie=UTF8&qid=1476984581&sr=1-1&keywords=How+to+Program+a+Block+Chain+Explorer+with+Python+and+Bitcoin) - Alex Gorale
 * [Blockchain: The Comprehensive Guide to Mastering the Hidden Economy ](https://www.amazon.com/Blockchain-Comprehensive-Mastering-Technology-Financial/dp/1537272039/ref=pd_sim_14_9?_encoding=UTF8&pd_rd_i=1537272039&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830)- Timothy Short
 * [Blockchain The Ultimate Guide to Understanding the Hidden Economy ](https://www.amazon.com/Blockchain-Ultimate-Understanding-Hidden-Economy/dp/1534839720/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1534839720&pd_rd_r=6W5M79GD2JFECEZDHPJF&pd_rd_w=19drm&pd_rd_wg=DMS0s&psc=1&refRID=6W5M79GD2JFECEZDHPJF)- Oscar Flynt
 * [Blockchain Revolution: The Ultimate Guide to Mastering Bitcoin and How to Use  Blockchain for Your Benefit](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=JMGHCB5WB1SFP0HYMK6E&pd_rd_w=uHeeo&pd_rd_wg=cburT&psc=1&refRID=JMGHCB5WB1SFP0HYMK6E) - Phil Stein
-* Blockchain Fast and Simple - What It Is, How It Works, Why It Matters:
-  Understand the basics, join the revolution - Pierro Martini
+* [Blockchain Fast and Simple - What It Is, How It Works, Why It Matters: Understand the basics, join the revolution](https://www.amazon.com/Blockchain-Fast-Simple-Understand-revolution-ebook/dp/B01M1J671W/ref=sr_1_1?s=books&ie=UTF8&qid=1476984683&sr=1-1&keywords=Blockchain+Fast+and+Simple+-+What+It+Is%2C+How+It+Works%2C+Why+It+Matters%3A+Understand+the+basics%2C+join+the+revolution) - Pierro Martini
 * [The Science of the Blockchain](https://www.amazon.com/Science-Blockchain-Inverted-Forest-Publishing/dp/1522751831/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1522751831&pd_rd_r=FF7D9XVT7EPCACXH29Z8&pd_rd_w=JXBSj&pd_rd_wg=pcc0Z&psc=1&refRID=FF7D9XVT7EPCACXH29Z8) - Roger Wattenhofer
 * [Decentralized Applications: Harnessing Bitcoin's Blockchain Technology](https://www.amazon.com/Decentralized-Applications-Harnessing-Blockchain-Technology/dp/1491924543/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1491924543&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM) - Siraj Raval
 * [Blockchain: The Simple Guide To Everything You Need To Know](https://www.amazon.com/Blockchain-Simple-Guide-Everything-Need/dp/1533161577/ref=pd_sim_14_23?_encoding=UTF8&pd_rd_i=1533161577&pd_rd_r=26RQGPJBS5V65WXKFS9Z&pd_rd_w=DJMVN&pd_rd_wg=E1guu&psc=1&refRID=26RQGPJBS5V65WXKFS9Z) - Jacob William
@@ -57,7 +56,7 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [Mastering Bitcoin: Unlocking Digital Cryptocurrencies ](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_1?ie=UTF8&qid=1476978890&sr=8-1&keywords=Mastering+Bitcoin%3A+Unlocking+Digital+Cryptocurrencies) Andreas M.  Antonopoulos
 * [Digital Gold: The Untold Story of Bitcoin](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0062362496&pd_rd_r=D7KMJCP493PPH9ADVPCR&pd_rd_w=g5Hrb&pd_rd_wg=KsfK5&psc=1&refRID=D7KMJCP493PPH9ADVPCR) -  Nathaniel Popper
 * [The Age of Cryptocurrency: How Bitcoin and Digital Money are challenging the Global Economic Order ](https://www.amazon.com/Age-Cryptocurrency-Bitcoin-Challenging-Economic/dp/1250065631/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1250065631&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM)- Paul Vigna and Michael J. Casey
-* [Bitcoin The Future of money] - Dominic Frisby
+* [Bitcoin The Future of Money](https://www.amazon.com/Bitcoin-future-money-Dominic-Frisby/dp/1783521023/ref=pd_sim_14_19?_encoding=UTF8&pd_rd_i=1783521023&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Dominic Frisby
 * [Wildcat Currency ]- Edward Castronova
 * [The Bitcoin Bible](https://www.amazon.com/Bitcoin-Bible-Gold-Benjamin-Guttmann/dp/3732296962/ref=pd_sim_14_18?_encoding=UTF8&pd_rd_i=3732296962&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Benjamin Guttmann
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin] - Eric Geissinger
@@ -71,11 +70,11 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [Bitcoin Step by Step for Beginners: How to Invest and Profit from Bitcoin Today!] - Leo Kallstrom
 * [Bitcoin : A Complete Beginner's Guide - Master The Game] - Luke Sutton
 * [The Black Book of Bitcoin: A Step-by-Step Bitcoin Guide on Everything You Need to Know About this New Currency](https://www.amazon.com/Black-Book-Bitcoin-Step-Step/dp/1519284527/ref=pd_sim_14_22?_encoding=UTF8&pd_rd_i=1519284527&pd_rd_r=PMB5GABNHVFM2VHE3WBH&pd_rd_w=6yGsW&pd_rd_wg=yVxm8&psc=1&refRID=PMB5GABNHVFM2VHE3WBH) - Mark Janniro
-* [Bitcoin Internals: A Technical Guide to Bitcoin ]- Chris Clark
-* [Bitcoin in English ]- Peter H Le
-* [The Anatomy of a Money-Like Informational Commodity: A study of Bitcoin] - Tim Swanson 
-* [The Digital Money Game: Competing in the multi-trillion dollar payments industry] - Charmaine Oak
-* [Bit by Bit: How P2P Is Freeing the World - Jeffery Tucker]
+* [Bitcoin Internals: A Technical Guide to Bitcoin ](https://www.amazon.com/Bitcoin-Internals-Technical-Guide-ebook/dp/B00DG8EPT0/ref=sr_1_1?ie=UTF8&qid=1476985144&sr=8-1&keywords=Bitcoin+Internals%3A)- Chris Clark
+* [Bitcoin in English ](https://www.amazon.com/Bitcoin-English-Understanding-HOW-Works-ebook/dp/B00X09LBX8/ref=sr_1_1?ie=UTF8&qid=1476985191&sr=8-1&keywords=Bitcoin+in+English) - Peter H Le
+* [The Anatomy of a Money-Like Informational Commodity: A study of Bitcoin](https://www.amazon.com/Anatomy-Money-like-Informational-Commodity-Bitcoin-ebook/dp/B00MEAO7XK/ref=sr_1_1?ie=UTF8&qid=1476985224&sr=8-1&keywords=The+Anatomy+of+a+Money) - Tim Swanson 
+* [The Digital Money Game: Competing in the multi-trillion dollar payments industry](https://www.amazon.com/Digital-Money-Game-Competing-multi-trillion-ebook/dp/B00LZ3T66K/ref=sr_1_1?ie=UTF8&qid=1476985249&sr=8-1&keywords=The+Digital+Money+Game%3A) - Charmaine Oak
+* [Bit by Bit: How P2P Is Freeing the World](https://www.amazon.com/Bit-How-P2P-Freeing-World-ebook/dp/B00S085TRS/ref=sr_1_1?ie=UTF8&qid=1476985273&sr=8-1&keywords=Bit+by+Bit) - Jeffery Tucker
 * [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0691171696&pd_rd_r=0CHWWTBSREYE58R7P0SX&pd_rd_w=gCU04&pd_rd_wg=gZavr&psc=1&refRID=0CHWWTBSREYE58R7P0SX) - Arvind Narayanan,Joseph Bonneau,Edward Felten, Andrew Miller,Steven Goldfeder 
 * [The Bitcoin Tutor: Unlocking the Secrets of Bitcoin](https://www.amazon.com/Bitcoin-Tutor-Unlocking-Secrets/dp/0979864917/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=0979864917&pd_rd_r=QZN41AYGXJSCS7Q32WA7&pd_rd_w=2i7o1&pd_rd_wg=nbCJJ&psc=1&refRID=QZN41AYGXJSCS7Q32WA7) - Marc A. Carignan
 * [Bitcoin Basics](https://www.amazon.com/Bitcoin-Basics-Creating-Investing-Bitcoins/dp/1508478945/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1508478945&pd_rd_r=YMYPCM376H2JNJ9NVB6D&pd_rd_w=0gtr5&pd_rd_wg=iqdC9&psc=1&refRID=YMYPCM376H2JNJ9NVB6D) - Benjamin Tideas
@@ -88,11 +87,11 @@ Curated list of Blockchain and Crytocurrency Resources in general
 ###Ethereum and Smart Contracts
 
 * [Investing in Ethereum: The Ultimate Guide to Learning and Profiting from--Cryptocurrencies](https://www.amazon.com/Investing-Ethereum-Learning-Profiting-Cryptocurrencies/dp/153530281X/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=153530281X&pd_rd_r=EH8VPZEJ5BMM540BQEZW&pd_rd_w=CywQ3&pd_rd_wg=p4U9s&psc=1&refRID=EH8VPZEJ5BMM540BQEZW) - Oscar Flynt
-* Ethereum: A look into the world of Ethereum and everything you need to know about it's trade and investment! - Ben Abner
-* Smart Contracts: How to Use Blockchain Smart Contracts for Cryptocurrency Exchange - Oscar Flynt
-* Investing in Ethereum: Understanding Cryptocurrencies for the Smart Investor - Michael K Nungesser
-* Great Chain of Numbers: A Guide to Smart Contracts, Smart Property and Trustless Asset Management - Tim Swanson 
-* Blockchain contracts and CyberLaw - Pavan Duggal
+* [Ethereum: A look into the world of Ethereum and everything you need to know about it's trade and investment!](https://www.amazon.com/Ethereum-everything-investment-Blockchain-Cryptocurrency-ebook/dp/B01IC6NT8S/ref=sr_1_1?ie=UTF8&qid=1476984793&sr=8-1&keywords=Ethereum%3A+A+look+into+the+world+of+Ethereum+and+everything+you+need+to+know+about+it%27s+trade+and+investment%21) - Ben Abner
+* [Smart Contracts: How to Use Blockchain Smart Contracts for Cryptocurrency Exchange ]- Oscar Flynt
+* [Investing in Ethereum: Understanding Cryptocurrencies for the Smart Investor] - Michael K Nungesser
+* [Great Chain of Numbers: A Guide to Smart Contracts, Smart Property and Trustless Asset Management ]- Tim Swanson 
+* [Blockchain contracts and CyberLaw ]- Pavan Duggal
 * Ethereum: The Complete Beginners Guide -Blockchain, Cryptocurrencies, Ethereum  - Ray Hammond
 * Smart Contracts: The Essential Guide to Using Blockchain Smart Contracts for Cryptocurrency Exchange - Jeff Reed 
 * Smart Contracts: The Ultimate Guide To Blockchain Smart Contracts - Learn How To Use Smart Contracts For Cryptocurrency Exchange! - Terry Parker
