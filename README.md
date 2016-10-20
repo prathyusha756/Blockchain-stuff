@@ -80,6 +80,7 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [Bitcoin Basics](https://www.amazon.com/Bitcoin-Basics-Creating-Investing-Bitcoins/dp/1508478945/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1508478945&pd_rd_r=YMYPCM376H2JNJ9NVB6D&pd_rd_w=0gtr5&pd_rd_wg=iqdC9&psc=1&refRID=YMYPCM376H2JNJ9NVB6D) - Benjamin Tideas
 * [Bitcoin Decoded: Bitcoin Beginner's Guide to Mining and the Strategies to Make Money with Cryptocurrencies ](https://www.amazon.com/Bitcoin-Decoded-Beginners-Strategies-Cryptocurrencies/dp/061595524X/ref=pd_sim_14_12?_encoding=UTF8&pd_rd_i=061595524X&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Brett Combs,Tom Mitsoff
 * [The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World](https://www.amazon.com/Bitcoin-Big-Bang-Alternative-Currencies/dp/1118963660/ref=pd_sim_14_13?_encoding=UTF8&pd_rd_i=1118963660&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Brian Kelly 
+* [Anonymous Cryptocurrencies: The rise of bitcoin alternatives that offer true anonymity](https://www.amazon.com/Cryptocurrencies-bitcoin-alternatives-offer-anonymity/dp/1500682586/ref=pd_sim_14_24?_encoding=UTF8&pd_rd_i=1500682586&pd_rd_r=PMB5GABNHVFM2VHE3WBH&pd_rd_w=6yGsW&pd_rd_wg=yVxm8&psc=1&refRID=PMB5GABNHVFM2VHE3WBH) - Will Martin 
 
 ###Ethereum and Smart Contracts
 
